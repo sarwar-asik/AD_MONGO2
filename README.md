@@ -1,4 +1,7 @@
 ### Advance Schema 
+##### main_repo (https://github.com/sarwar-asik/AD_MONGO2.git)
+##### All-mongo (https://github.com/sarwar-asik/All-mongo/edit/ACC_SchemaModel3)
+
 ### Brand Schema ::
         const mongoose = require("mongoose");
         const validator = require("validator");
